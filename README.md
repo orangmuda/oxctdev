@@ -5,8 +5,8 @@
   <a href="http://twitter.com/hooksteroid">
     <img src="https://img.shields.io/twitter/follow/andridev_?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>  
-  <a href="https://discord.gg/K47eCSntqB"> 
-    <img src="https://img.shields.io/discord/K47eCSntqB?logo=discord&style=for-the-badge" />
+  <a href="https://discord.gg/Xw9da7Rn"> 
+    <img src="https://img.shields.io/discord/Xw9da7Rn?logo=discord&style=for-the-badge" />
   </a>
   <a href="https://www.youtube.com/channel/UCvxYIozXmylJPPFPlj1-xMg?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/views/UCvxYIozXmylJPPFPlj1-xMg?label=YouTube&logo=YouTube&style=for-the-badge" />
