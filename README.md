@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=duckstroms&theme=gruvbox_duo" align="center" alt="https://andripwn.github.io"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=oxctdev&theme=gruvbox_duo" align="center" alt="https://andripwn.github.io"  />
 </p>
 
 <h4 align="center">Hacktivity</h4>
