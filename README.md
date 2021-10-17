@@ -1,6 +1,6 @@
 <p align="center">  
   <a href="https://github.com/oxctdev?tab=followers">
-    <img src="https://img.shields.io/github/followers/duckstroms?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+    <img src="https://img.shields.io/github/followers/oxctdev?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="http://twitter.com/hooksteroid">
     <img src="https://img.shields.io/twitter/follow/andridev_?label=Twitter&logo=twitter&style=for-the-badge" />
