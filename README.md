@@ -8,8 +8,8 @@
   <a href="https://discord.gg/Xw9da7Rn"> 
     <img src="https://img.shields.io/discord/Xw9da7Rn?logo=discord&style=for-the-badge" />
   </a>
-  <a href="https://www.youtube.com/channel/UCvxYIozXmylJPPFPlj1-xMg?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/views/UCvxYIozXmylJPPFPlj1-xMg?label=YouTube&logo=YouTube&style=for-the-badge" />
+  <a href="https://www.youtube.com/channel/SecurityExecutionsCode?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/views/SecurityExecutionsCode?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a>
 </p>
 
