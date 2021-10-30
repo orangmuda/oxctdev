@@ -49,10 +49,6 @@ Remember, open source is not commercial software development. The projects I sha
 
 Contact me : andridev_@wearehackerone.com
 
-## Support
-
-[![Support via PayPal](https://cdn.dannsdb.id/upload/paypal-github-button/1.0.0/dist/button.svg)](https://bit.ly/3mwEfJT)
-
 <!---
 dannsdb/dannsdb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
